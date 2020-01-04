@@ -6,7 +6,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 import java.io.Serializable;
-
+// useless comment
 @Data
 public class UserDTO implements Serializable {
     @Getter(AccessLevel.NONE)
